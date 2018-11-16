@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="<?php echo base_url("assets/css/bootstrap.min.css") ?> ">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<? echo base_url ("assets/css/mdb.min.css") ?> ">
-    <title>Document</title>
+    <title>Category</title>
 </head>
 <body style="background-color:#b6e1fc">
     <nav class="navbar navbar-expand-lg navbar-light"  style="background-color:#6cc3f9" id="navbar">

@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<? echo base_url ("assets/css/mdb.min.css") ?> ">
     <link rel="stylesheet" href="http:\\localhost:81\ciblog\application\views\style.css">
-    <title>Document</title>
+    <title>Homepage</title>
 </head>
 <body style="background-color:#b6e1fc">
     <!-- Start of upper navbar -->
