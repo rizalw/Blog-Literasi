@@ -1,11 +1,11 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class category extends CI_Controller {
+class homepage_2 extends CI_Controller {
 
 	
 	public function index()
 	{
-		$this->load->view('Blog_literasi\category');
-    }
+		$this->load->view('Blog_literasi\homepage_2');
+	}
 }

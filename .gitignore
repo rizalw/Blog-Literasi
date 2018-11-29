@@ -6,7 +6,19 @@ application/cache/*
 application/logs/*
 !application/logs/index.html
 
+application/Views/*
+
 !application/*/.htaccess
+
+application/controlllers/blog.php
+application/controlllers/latihan_frontend.php
+application/controlllers/navbar.php
+application/controlllers/not_welcome.php
+application/controlllers/tabel_pengguna.php
+application/controlllers/Welcome.php
+application/Views/*.css
+
+
 
 composer.lock
 

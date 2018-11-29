@@ -8,5 +8,4 @@ class homepage extends CI_Controller {
 	{
 		$this->load->view('Blog_literasi\homepage');
 	}
-	//dk
 }
